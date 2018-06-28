@@ -1,4 +1,4 @@
-global-message: La aplicaciones está arriba
+global-message: La aplicaciones esta arriba
 server:
     port: 8282
 endpoints.shutdown.enabled: true
@@ -15,5 +15,5 @@ zuul:
     routes:
         selections:
             path: /selections/**
-            serviceId: SELECTIONS
+            serviceId: selections
             stripPrefix: false

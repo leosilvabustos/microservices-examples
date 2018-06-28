@@ -9,5 +9,5 @@ security:
   ignored:true
 turbine:
   aggregator:
-    clusterConfig: MICROSERVICESCLIENT
-  appConfig: microservicesclient
+    clusterConfig: selections
+  appConfig: selections
