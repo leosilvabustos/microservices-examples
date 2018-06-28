@@ -1,3 +1,5 @@
 /SpringCloudMS/ConfigServer/target/
 /SpringCloudMS/Microservice/target/
 /SpringCloudMS/Hystrix/target/
+/SpringCloudMS/Eureka/target/
+/SpringCloudMS/Zuul/target/

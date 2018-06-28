@@ -11,3 +11,9 @@ spring:
                 git:
                     uri: https://github.com/leosilvabustos/microservices-examples
                     searchPaths: config-files*
+zuul:
+    routes:
+        selections:
+            path: /selections/**
+            serviceId: SELECTIONS
+            stripPrefix: false

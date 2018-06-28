@@ -10,6 +10,7 @@
         <module>Microservice</module>
         <module>Eureka</module>
         <module>Hystrix</module>
+        <module>Zuul</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
