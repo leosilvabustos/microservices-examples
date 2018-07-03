@@ -1,0 +1,6 @@
+security:
+    ignored:true
+turbine:
+    aggregator:
+        clusterConfig: selections
+        appConfig: selections

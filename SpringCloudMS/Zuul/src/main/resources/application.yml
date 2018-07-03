@@ -1,11 +1,11 @@
 info:
-  component: zuul server app    
+    component: zuul server app    
 server:
-  port: 8080  
+    port: 8080  
 spring:
-  application:
-    name: zuulserver
-  cloud:
-    config:
-      enabled: true
-      uri: http://localhost:8282
+    application:
+        name: zuulserver
+    cloud:
+        config:
+            enabled: true
+            uri: http://localhost:8282
